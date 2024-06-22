@@ -1,0 +1,9 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #07da00; /* colore cambiato*/
+    padding: 20px;
+    text-align: center;
+}
